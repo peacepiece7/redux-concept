@@ -19,3 +19,7 @@ redux thunk를 사용하면 아래처럼 함수를 dispath할 수 있습니다.
 미들웨어에 thunk를 추가하면 됩니다.
 
 `applyMiddleware(thunk, middleware)`
+
+# redux-toolkit
+
+npx create-react-app redux-toolkit --template redux-typescript
